@@ -340,6 +340,54 @@
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/SeD96lQ"
       }
+    },
+    "51": {
+      "title": "Redivivo",
+      "volume": "2",
+      "last_updated": "1725312335",
+      "groups": {
+        "Canônico": "https://imgur.com/a/51-lackadaisy-redivivo-pt-br-LqZJwA9"
+      }
+    },
+    "52": {
+      "title": "Lembranças",
+      "volume": "2",
+      "last_updated": "1725312398",
+      "groups": {
+        "Canônico": "https://imgur.com/a/52-lackadaisy-lembran-as-pt-br-rpG5d2O"
+      }
+    },
+    "53": {
+      "title": "Inspiração",
+      "volume": "2",
+      "last_updated": "1725312429",
+      "groups": {
+        "Canônico": "https://imgur.com/a/53-lackadaisy-inspiration-pt-br-GVApAlD"
+      }
+    },
+    "54": {
+      "title": "Sabático",
+      "volume": "2",
+      "last_updated": "1725312454",
+      "groups": {
+        "Canônico": "https://imgur.com/a/54-lackadaisy-sab-tico-pt-br-YPDSasU"
+      }
+    },
+    "55": {
+      "title": "Cuidadosos",
+      "volume": "2",
+      "last_updated": "1725312490",
+      "groups": {
+        "Canônico": "https://imgur.com/a/55-lackadaisy-cuidadosos-pt-br-Pqb7hdg"
+      }
+    },
+    "56": {
+      "title": "De Cabeça",
+      "volume": "2",
+      "last_updated": "1725312502",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/vHcQIym"
+      }
     }
   }
 }
