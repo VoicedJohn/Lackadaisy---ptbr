@@ -388,6 +388,46 @@
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/vHcQIym"
       }
+    },
+    "65": {
+      "title": "Geométrica",
+      "volume": "3",
+      "last_updated": "1725323945",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/Mzj7wRM"
+      }
+    },
+    "66": {
+      "title": "Leoa",
+      "volume": "3",
+      "last_updated": "1725323973",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/bik63Vm"
+      }
+    },
+    "68": {
+      "title": "Isca",
+      "volume": "3",
+      "last_updated": "1725324008",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/gUdVKiW"
+      }
+    },
+    "69": {
+      "title": "Lutador",
+      "volume": "3",
+      "last_updated": "1725324050",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/vonqOTt"
+      }
+    },
+    "70": {
+      "title": "Roleta",
+      "volume": "3",
+      "last_updated": "1725324075",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/tH1bxpc"
+      }
     }
   }
 }
