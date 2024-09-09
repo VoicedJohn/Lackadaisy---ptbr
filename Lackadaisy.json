@@ -426,7 +426,9 @@
       "volume": "3",
       "last_updated": "1725324075",
       "groups": {
-        "Canônico": "/proxy/api/imgur/chapter/1KEA5iv"
+        "Canônico": [
+          "https://imgur.com/a/1KEA5iv"
+        ]
       }
     },
     "71": {
