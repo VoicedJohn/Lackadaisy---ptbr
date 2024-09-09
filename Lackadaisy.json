@@ -492,6 +492,46 @@
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/hhxvmeK"
       }
+    },
+    "91": {
+      "title": "91",
+      "volume": "3",
+      "last_updated": "1725926237",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "92": {
+      "title": "92",
+      "volume": "3",
+      "last_updated": "1725926259",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "95": {
+      "title": "95",
+      "volume": "3",
+      "last_updated": "1725926276",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "97": {
+      "title": "97",
+      "volume": "3",
+      "last_updated": "1725926313",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "99": {
+      "title": "99",
+      "volume": "3",
+      "last_updated": "1725926325",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/"
+      }
     }
   }
 }
