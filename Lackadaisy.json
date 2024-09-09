@@ -428,6 +428,70 @@
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/1KEA5iv"
       }
+    },
+    "71": {
+      "title": "Civismo",
+      "volume": "3",
+      "last_updated": "1725921053",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/Ym1Qefk"
+      }
+    },
+    "74": {
+      "title": "Avesso",
+      "volume": "3",
+      "last_updated": "1725921092",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/E4QNFaB"
+      }
+    },
+    "75": {
+      "title": "Delírio",
+      "volume": "3",
+      "last_updated": "1725921113",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/U73mFbH"
+      }
+    },
+    "77": {
+      "title": "Conexão",
+      "volume": "3",
+      "last_updated": "1725921131",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/xLjszkD"
+      }
+    },
+    "78": {
+      "title": "Frio na Espinha",
+      "volume": "3",
+      "last_updated": "1725921153",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/MfnryVJ"
+      }
+    },
+    "84": {
+      "title": "Olhadinha",
+      "volume": "3",
+      "last_updated": "1725921174",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/SzcMsbF"
+      }
+    },
+    "85": {
+      "title": "Reversão",
+      "volume": "3",
+      "last_updated": "1725921188",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/nfzIthw"
+      }
+    },
+    "87": {
+      "title": "Caminho de Chumbo",
+      "volume": "3",
+      "last_updated": "1725921205",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/hhxvmeK"
+      }
     }
   }
 }
