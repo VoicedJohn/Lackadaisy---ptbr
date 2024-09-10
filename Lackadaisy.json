@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1722859170",
       "groups": {
-        "Canônico": "/proxy/api/imgur/chapter/wWXaV9k"
+        "Canônico": [
+          "https://files.catbox.moe/7enik6.jpg"
+        ]
       }
     },
     "2": {
