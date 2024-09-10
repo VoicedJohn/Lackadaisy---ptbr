@@ -494,43 +494,75 @@
       }
     },
     "91": {
-      "title": "91",
+      "title": "Rachaduras (Parte 1)",
       "volume": "3",
       "last_updated": "1725926237",
       "groups": {
-        "Canônico": "/proxy/api/imgur/chapter/"
+        "Canônico": "/proxy/api/imgur/chapter/PWmKlkb"
       }
     },
     "92": {
-      "title": "92",
+      "title": "Rachaduras (Parte 2)",
       "volume": "3",
       "last_updated": "1725926259",
       "groups": {
-        "Canônico": "/proxy/api/imgur/chapter/"
+        "Canônico": "/proxy/api/imgur/chapter/LXg1HQo"
       }
     },
     "95": {
-      "title": "95",
+      "title": "Sobrecarga",
       "volume": "3",
       "last_updated": "1725926276",
       "groups": {
-        "Canônico": "/proxy/api/imgur/chapter/"
+        "Canônico": "/proxy/api/imgur/chapter/YK6y7qX"
       }
     },
     "97": {
-      "title": "97",
+      "title": "Sabichão",
       "volume": "3",
       "last_updated": "1725926313",
       "groups": {
-        "Canônico": "/proxy/api/imgur/chapter/"
+        "Canônico": "/proxy/api/imgur/chapter/5WTKCMq"
       }
     },
     "99": {
-      "title": "99",
+      "title": "Partida",
       "volume": "3",
       "last_updated": "1725926325",
       "groups": {
-        "Canônico": "/proxy/api/imgur/chapter/"
+        "Canônico": "/proxy/api/imgur/chapter/BcmHu3R"
+      }
+    },
+    "101": {
+      "title": "Anódina",
+      "volume": "3",
+      "last_updated": "1725926349",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/3sZmUed"
+      }
+    },
+    "102": {
+      "title": "Iluminação",
+      "volume": "3",
+      "last_updated": "1725926362",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/V8Sbe31"
+      }
+    },
+    "104": {
+      "title": "Confessionário",
+      "volume": "3",
+      "last_updated": "1725926368",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/Z8jzn9P"
+      }
+    },
+    "106": {
+      "title": "Nomeio",
+      "volume": "3",
+      "last_updated": "1725926374",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/of7FPbi"
       }
     }
   }
