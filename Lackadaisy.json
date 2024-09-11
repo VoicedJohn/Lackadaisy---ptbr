@@ -564,7 +564,9 @@
       "volume": "3",
       "last_updated": "1725926374",
       "groups": {
-        "Canônico": "/proxy/api/imgur/chapter/of7FPbi"
+        "Canônico": [
+          "https://imgchest.com/p/n87wgrleg4x"
+        ]
       }
     }
   }
